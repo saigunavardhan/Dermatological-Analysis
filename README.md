@@ -7,3 +7,5 @@ We have aimed to categorize the severity of the condition based on a multi crite
 Dataset used for the execution of the models was obtained from <a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign/">Kaggle</a>..
 
 Worked on by: <a href="https://github.com/dawnorak">Sathi Vaigarai</a>, <a href="https://github.com/saigunavardhan">Sai Gunavardhan</a> and <a href="https://github.com/varunnaidu1802">K Varun Teja</a>.
+
+Dataset used for the execution of the models was obtained from <a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign/">Kaggle</a>.
