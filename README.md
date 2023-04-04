@@ -6,7 +6,7 @@ This work proposes an integrated approach: SCED - Skin Cancer Early Diagnosis sy
 
 ## Proposed Work
 
-![Alt Text](https://user-images.githubusercontent.com/94104558/229706031-ce231f89-18b1-4a25-adcb-a47719ea3c0e.jpg)
+![Alt Text](https://user-images.githubusercontent.com/94104558/229706031-ce231f89-18b1-4a25-adcb-a47719ea3c0e.jpg)<br>
 The input image is considered, followed with application of image processing and analysis for the calculation of area of the affected region and with the help of deep learning model (the proposed novel EfficientNet-INN architecture), the image is classified into one of two categories – malignant or benign, as a probability factor. Along with this, the pigmentation of the affection region is considered. Once all three factors are available, SCED model will make a calculation to estimate the severity of the condition, and thereby help in early diagnosis.
 
 Worked on by: <a href="https://github.com/dawnorak">Sathi Vaigarai</a>, <a href="https://github.com/saigunavardhan">Sai Gunavardhan</a> and <a href="https://github.com/varunnaidu1802">K Varun Teja</a>.
