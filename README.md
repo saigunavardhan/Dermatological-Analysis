@@ -1,6 +1,6 @@
 # SCED - Skin Cancer Early Diagnosis System
 
-Awaiting conference publication (IEEE Conference ID:57626)
+The published version of this work can be found <a href="https://ieeexplore.ieee.org/document/10112364">here</a> in IEEE Explore.
 
 ## Overview
 
